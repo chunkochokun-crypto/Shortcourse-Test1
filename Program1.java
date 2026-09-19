@@ -6,6 +6,7 @@ class Program1 {
                 System.out.print("* ");
             }
             System.out.println();
+            // bababa~~~
         }
     }
 }
